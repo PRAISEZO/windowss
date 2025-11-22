@@ -5,3 +5,4 @@ https://peytonplayz595.github.io/Shadow-4.0/javascript/
 https://github.com/codespaces/new
 https://automatic-disco-jjwqx9q6xjp535vw7-8081.app.github.dev/
 https://web.blockbench.net
+chrome://settings
