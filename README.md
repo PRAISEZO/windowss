@@ -7,3 +7,4 @@ https://automatic-disco-jjwqx9q6xjp535vw7-8081.app.github.dev/
 https://web.blockbench.net
 chrome://settings
 https://www.dropbox.com/s/b04i5eqtqwrh5ub/QualityArmoryV1.0.40.zip?dl=1
+https://link.spoticord.com/m3HgYjiaalS838ozjQTx5csUGFgiKaTwEDUshFsPsJXrMcOJJumkgeEquNGAcEZt
