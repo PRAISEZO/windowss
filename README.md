@@ -8,3 +8,4 @@ https://web.blockbench.net
 chrome://settings
 https://www.dropbox.com/s/b04i5eqtqwrh5ub/QualityArmoryV1.0.40.zip?dl=1
 https://link.spoticord.com/m3HgYjiaalS838ozjQTx5csUGFgiKaTwEDUshFsPsJXrMcOJJumkgeEquNGAcEZt
+https://www.xbox.com/ens/play
