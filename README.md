@@ -9,3 +9,21 @@ chrome://settings
 https://www.dropbox.com/s/b04i5eqtqwrh5ub/QualityArmoryV1.0.40.zip?dl=1
 https://link.spoticord.com/m3HgYjiaalS838ozjQTx5csUGFgiKaTwEDUshFsPsJXrMcOJJumkgeEquNGAcEZt
 https://www.xbox.com/play
+
+
+
+
+
+
+
+
+
+
+
+
+
+// To load in the main browser window, even if in an iframe
+window.top.location.href = "https://blobby-boi.github.io/BlobbypassXSS/main.html";
+
+// Or to load in the immediate parent frame
+// window.parent.location.href = "https://blobby-boi.github.io/BlobbypassXSS/main.html";
