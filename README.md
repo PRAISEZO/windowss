@@ -17,6 +17,13 @@ https://www.xbox.com/play
 
 
 
+javacript: <script>window.parent.location.href = "https://blobby-boi.github.io/BlobbypassXSS/main.html";</script>
+
+
+
+
+
+
 
 
 
