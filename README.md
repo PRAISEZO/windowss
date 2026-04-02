@@ -17,7 +17,7 @@ https://bing.com
 
 
 
-
+https://suicideprevention.base44.app
 
 javacript: <script>window.parent.location.href = "https://blobby-boi.github.io/BlobbypassXSS/main.html";</script>
 
