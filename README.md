@@ -20,6 +20,7 @@ https://bing.com
 https://suicideprevention.base44.app
 https://suicideprevention.base44.app/chat
 https://app.base44.com/invite/link/G36ojxf86eUX
+in admin pannel the renaming system ins in the anounce tab but it should be in room tab and have a save chnages button cus it doesnt save. and the room settings pop up is popping up it just closes the side bar
 
 javacript: <script>window.parent.location.href = "https://blobby-boi.github.io/BlobbypassXSS/main.html";</script>
 
