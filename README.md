@@ -14,7 +14,7 @@ https://app.base44.com
 https://void-launcher-flow.base44.app
 https://duckduckgo.com
 https://bing.com
-https://gmail.com/1/
+https://gmail.com
 
 
 
